@@ -6,5 +6,10 @@ The portfolio is a live and interactive website that showcases my skills and exp
 - Highlighted projects with live demos and description
 - Contact Information
 
+# Technologies
+- HTML
+- CSS
+- JavaScript
+
 # Live Demo
 [Live Demo](https://portfolio-arnavdeepaware.netlify.app/)
